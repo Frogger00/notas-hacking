@@ -42,9 +42,117 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dd36e6cfa54be95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 0 al 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537030bea08d25e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 1 al 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad0fa118432b13cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 2 al 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ba54741ace5b96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 3 al 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e818bc85834d8a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 4 al 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0803cc24ce0bc37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 5 al 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e3b9c4ed4531f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 6 al 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54830c044e4f157a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 7 al 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee81cdc2ed9dc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 0 al 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -110,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/level0.md",
+                "file": "retos-bandit/Level 0 al 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/level0.md",
+                "file": "retos-bandit/Level 0 al 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/level0.md"
+                "file": "retos-bandit/Level 0 al 1.md"
               }
             }
           }
@@ -171,11 +279,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8ae1ddffd86d0b5",
+  "active": "aee81cdc2ed9dc34",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
-    "retos-bandit/level0.md",
-    "Untitled.md",
-    "README.md"
+    "retos-bandit/Level 8 al 9.md",
+    "retos-bandit/Level 7 al 8.md",
+    "retos-bandit/Level 3 al 4.md",
+    "retos-bandit/Level 4 al 5.md",
+    "retos-bandit/Level 5 al 6.md",
+    "retos-bandit/Level 6 al 7.md",
+    "retos-bandit/Level 2 al 3.md",
+    "retos-bandit/Level 1 al 2.md",
+    "retos-bandit/Level 0 al 1.md",
+    "retos-bandit/plantilla.md"
   ]
 }

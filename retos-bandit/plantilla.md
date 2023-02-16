@@ -1,7 +1,5 @@
 
-# Retos bandit
-
-# Level X
+# Bandit Level X
 
 ## Objetivo
 
