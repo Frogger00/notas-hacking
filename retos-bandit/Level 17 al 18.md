@@ -8,7 +8,13 @@ There are 2 files in the homedirectory: **passwords.old and passwords.new**. Th
 
 ## Solución
 ````bash
-
+bandit17@bandit:~$ ls
+passwords.new  passwords.old
+bandit17@bandit:~$ diff passwords.old passwords.new
+42c42
+< f9wS9ZUDvZoo3PooHgYuuWdawDFvGld2
+---
+> hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 ````
 
 ## Notas adicionales
