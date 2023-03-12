@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed3d4a6836c70a29",
+        "id": "34ac4637f46bd93b",
         "type": "tabs",
         "children": [
           {
-            "id": "0e784a3662834993",
+            "id": "be98106a48ddf409",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 27 al 28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b3734de9138acb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/2019/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/2019/Client-side-again.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,34 +138,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b3734de9138acb3",
+  "active": "be98106a48ddf409",
   "lastOpenFiles": [
-    "retos-bandit/Level 27 al 28.md",
-    "picoCTF/2019/picobrowser.md",
-    "picoCTF/2019/Client-side-again.md",
-    "picoCTF/2019/dont-use-client-side.md",
-    "picoCTF/2019/logon.md",
-    "picoCTF/2019/where are the robots.md",
-    "picoCTF/2019/Insp3ct0r.md",
-    "picoCTF/2019/01 - Lets Warm Up.md",
-    "retos-bandit/Level 26 al 27.md",
-    "retos-bandit/Level 25 al 26.md",
-    "retos-bandit/Level 24 al 25.md",
-    "retos-bandit/Level 23 al 24.md",
-    "retos-bandit/Level 22 al 23.md",
-    "retos-bandit/Level 21 al 22.md",
-    "retos-bandit/Level 20 al 21.md",
-    "retos-bandit/Level 19 al 20.md",
-    "retos-bandit/level0.md",
-    "retos-bandit/Level 18 al 19.md",
-    "retos-bandit/Level 17 al 18.md",
-    "retos-bandit/Level 16 al 17.md",
-    "retos-bandit/Level 15 al 16.md",
-    "retos-bandit/Level 0 al 1.md",
+    "retos-bandit/plantilla.md",
     "README.md",
-    "retos-bandit/Level 14 al 15.md",
-    "picoCTF/2019/06 - Bases.md",
-    "retos-bandit/Level 13 al 14.md",
+    "retos-bandit/Level 27 al 28.md",
+    "retos-bandit/Level 28 al 29.md",
+    "retos-bandit/Level 29 al 30.md",
+    "retos-bandit/Level 30 al 31.md",
+    "retos-bandit/Level 31 al 32.md",
+    "retos-bandit/Level 32 al 33.md",
+    "retos-bandit/level0.md",
+    "retos-bandit/Level 0 al 1.md",
+    "retos-bandit/Level 26 al 27.md",
+    "primer-parcial/2022/03 - Codebook.md",
+    "primer-parcial/2022/01 - runme.py.md",
+    "primer-parcial/2021/01 - Obedient Cat.md",
+    "primer-parcial/2019/04 - whats a net cat.md",
+    "primer-parcial/2019/01 - Lets Warm Up.md",
+    "primer-parcial/2022",
+    "primer-parcial/2021",
+    "primer-parcial/2019",
+    "primer-parcial/2022/09 - PW Crack 3.md",
+    "primer-parcial",
+    "primer-parcial/2022/08 - PW Crack 2.md",
+    "primer-parcial/2022/07 - PW Crack 1.md",
+    "primer-parcial/2022/06 - Glitch Cat.md",
+    "primer-parcial/2022/05 - fixme2.py.md",
+    "primer-parcial/2022/04 - fixme1.py.md",
+    "primer-parcial/2022/02 - convertme.py.md",
+    "primer-parcial/2021/06 - Magikarp Ground Mission.md",
+    "primer-parcial/2021/05 - Tab, Tab, Attack.md",
+    "primer-parcial/2021/04 - Static ain't always noise.md",
     "picoCTF/2022",
     "picoCTF/2021",
     "picoCTF/2019",

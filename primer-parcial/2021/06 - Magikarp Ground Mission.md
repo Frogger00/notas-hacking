@@ -1,0 +1,67 @@
+## Descripcion
+Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `b60940ca`
+
+Additional details will be available after launching your challenge instance.
+
+## Pistas
+Finding a cheatsheet for bash would be really helpful!
+
+## Solucion
+````bash
+frogger00-picoctf@webshell:~$ ssh ctf-player@venus.picoctf.net -p 50178
+ctf-player@pico-chall$ ls
+1of3.flag.txt  instructions-to-2of3.txt
+ctf-player@pico-chall$ cat 1of3.flag.txt 
+picoCTF{xxsh_
+ctf-player@pico-chall$ cat instructions-to-2of3.txt 
+Next, go to the root of all things, more succinctly `/`
+ctf-player@pico-chall$ cd ..
+ctf-player@pico-chall$ ls -la
+total 92
+drwxr-xr-x   1 root root 4096 Mar 12 03:59 .
+drwxr-xr-x   1 root root 4096 Mar 12 03:59 ..
+-rwxr-xr-x   1 root root    0 Mar 12 03:59 .dockerenv
+-rw-r--r--   1 root root   17 Mar 16  2021 2of3.flag.txt
+drwxr-xr-x   1 root root 4096 Mar 16  2021 bin
+drwxr-xr-x   2 root root 4096 Apr 24  2018 boot
+drwxr-xr-x   5 root root  340 Mar 12 03:59 dev
+drwxr-xr-x   1 root root 4096 Mar 12 03:59 etc
+drwxr-xr-x   1 root root 4096 Mar 16  2021 home
+-rw-r--r--   1 root root   51 Mar 16  2021 instructions-to-3of3.txt
+drwxr-xr-x   1 root root 4096 Mar 16  2021 lib
+drwxr-xr-x   2 root root 4096 Feb 22  2021 lib64
+drwxr-xr-x   2 root root 4096 Feb 22  2021 media
+drwxr-xr-x   2 root root 4096 Feb 22  2021 mnt
+drwxr-xr-x   1 root root 4096 Mar 16  2021 opt
+dr-xr-xr-x 181 root root    0 Mar 12 03:59 proc
+drwx------   2 root root 4096 Feb 22  2021 root
+drwxr-xr-x   1 root root 4096 Mar 12 04:00 run
+drwxr-xr-x   1 root root 4096 Mar 16  2021 sbin
+drwxr-xr-x   2 root root 4096 Feb 22  2021 srv
+dr-xr-xr-x  13 root root    0 Mar 12 03:59 sys
+drwxrwxrwt   1 root root 4096 Mar 16  2021 tmp
+drwxr-xr-x   1 root root 4096 Feb 22  2021 usr
+drwxr-xr-x   1 root root 4096 Feb 22  2021 var
+ctf-player@pico-chall$ cat 2of3.flag.txt 
+0ut_0f_\/\/4t3r_
+ctf-player@pico-chall$ cat instructions-to-3of3.txt 
+Lastly, ctf-player, go home... more succinctly `~`
+ctf-player@pico-chall$ cd ~ 
+ctf-player@pico-chall$ ls -la
+total 32
+drwxr-xr-x 1 ctf-player ctf-player 4096 Mar 12 04:00 .
+drwxr-xr-x 1 root       root       4096 Mar 16  2021 ..
+drwx------ 2 ctf-player ctf-player 4096 Mar 12 04:00 .cache
+-rw-r--r-- 1 ctf-player ctf-player   80 Mar 16  2021 .profile
+drw------- 1 ctf-player ctf-player 4096 Mar 16  2021 .ssh
+-rw-r--r-- 1 ctf-player ctf-player   10 Mar 16  2021 3of3.flag.txt
+drwxr-xr-x 1 ctf-player ctf-player 4096 Mar 16  2021 drop-in
+ctf-player@pico-chall$ cat 3of3.flag.txt 
+c1754242}
+````
+
+## Bandera
+picoCTF{xxsh_0ut_0f_\/\/4t3r_c1754242}
+
+## Notas
+

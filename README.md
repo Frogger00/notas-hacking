@@ -5,3 +5,4 @@ Sebastián Zarazúa Rodríguez
 sebastianzarazua186@gmail.com
 
 Retos Bandit
+Soluciones picoCTF
