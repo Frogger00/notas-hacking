@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34ac4637f46bd93b",
+        "id": "e4b00c8f9159e3f4",
         "type": "tabs",
         "children": [
           {
-            "id": "be98106a48ddf409",
+            "id": "92789331264b61f7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/2021/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/2021/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/2021/Scavenger Hunt.md"
+              }
             }
           }
         ]
@@ -138,38 +142,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be98106a48ddf409",
+  "active": "7ea2cf7cd6076da2",
   "lastOpenFiles": [
-    "retos-bandit/plantilla.md",
-    "README.md",
-    "retos-bandit/Level 27 al 28.md",
+    "picoCTF/2021/Cookies.md",
+    "retos-bandit/Level 13 al 14.md",
     "retos-bandit/Level 28 al 29.md",
-    "retos-bandit/Level 29 al 30.md",
-    "retos-bandit/Level 30 al 31.md",
-    "retos-bandit/Level 31 al 32.md",
-    "retos-bandit/Level 32 al 33.md",
-    "retos-bandit/level0.md",
-    "retos-bandit/Level 0 al 1.md",
-    "retos-bandit/Level 26 al 27.md",
-    "primer-parcial/2022/03 - Codebook.md",
-    "primer-parcial/2022/01 - runme.py.md",
-    "primer-parcial/2021/01 - Obedient Cat.md",
-    "primer-parcial/2019/04 - whats a net cat.md",
-    "primer-parcial/2019/01 - Lets Warm Up.md",
+    "picoCTF/2021/Scavenger Hunt.md",
+    "picoCTF/2021/GET aHEAD.md",
+    "picoCTF/2019/c0rrupt.md",
+    "picoCTF/2019/Glory of the Garden.md",
+    "picoCTF/2019/So Meta.md",
+    "picoCTF/2019/shark on wire 1.md",
+    "picoCTF/2019/extensions.md",
+    "picoCTF/2019/What Lies Within.md",
+    "picoCTF/2019/m00nwalk.md",
+    "picoCTF/2019/WhitePages.md",
+    "picoCTF/2019/like1000.md",
+    "picoCTF/2019/shark on wire 2.md",
+    "picoCTF/2019/WebNet0.md",
+    "picoCTF/2019/Webnet1.md",
+    "picoCTF/2019/Matryoshka doll.md",
+    "picoCTF/2019/tunn3l_v1s10n.md",
+    "picoCTF/2019/MacroHard WeakEdge.md",
+    "picoCTF/2019/Client-side-again.md",
+    "primer-parcial/2021/06 - Magikarp Ground Mission.md",
+    "primer-parcial/2021/05 - Tab, Tab, Attack.md",
+    "primer-parcial/2022/09 - PW Crack 3.md",
+    "primer-parcial/2022/07 - PW Crack 1.md",
+    "primer-parcial/2022/04 - fixme1.py.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
-    "primer-parcial/2022/09 - PW Crack 3.md",
     "primer-parcial",
-    "primer-parcial/2022/08 - PW Crack 2.md",
-    "primer-parcial/2022/07 - PW Crack 1.md",
-    "primer-parcial/2022/06 - Glitch Cat.md",
-    "primer-parcial/2022/05 - fixme2.py.md",
-    "primer-parcial/2022/04 - fixme1.py.md",
-    "primer-parcial/2022/02 - convertme.py.md",
-    "primer-parcial/2021/06 - Magikarp Ground Mission.md",
-    "primer-parcial/2021/05 - Tab, Tab, Attack.md",
-    "primer-parcial/2021/04 - Static ain't always noise.md",
     "picoCTF/2022",
     "picoCTF/2021",
     "picoCTF/2019",
