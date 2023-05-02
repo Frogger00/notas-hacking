@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35074468a411ffc1",
+        "id": "ab10327ca6cd842d",
         "type": "tabs",
         "children": [
           {
-            "id": "3bbd0474e6ed8a36",
+            "id": "0f4b6d6b0df9badc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bbd0474e6ed8a36",
+  "active": "0f4b6d6b0df9badc",
   "lastOpenFiles": [
+    "picoCTF/2019/b00tl3gRSA2.md",
+    "picoCTF/2019/rsa-pop-quiz.md",
+    "picoCTF/2019/miniRSA.md",
+    "picoCTF/2019/13.md",
     "picoCTF/2019/waves over lambda.md",
     "picoCTF/2019/Tapping.md",
     "picoCTF/2019/la cifra de.md",
     "picoCTF/2019/caesar.md",
-    "picoCTF/2019/13.md",
     "picoCTF/2019/Easy1.md",
     "picoCTF/2019/The Numbers.md",
     "picoCTF/2019/Client-side-again.md",
@@ -164,9 +167,6 @@
     "picoCTF/2021/Scavenger Hunt.md",
     "picoCTF/2023",
     "retos-bandit/Level 13 al 14.md",
-    "retos-bandit/Level 28 al 29.md",
-    "picoCTF/2021/GET aHEAD.md",
-    "picoCTF/2019/c0rrupt.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
