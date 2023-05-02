@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76af29c6cc4694a9",
+        "id": "35074468a411ffc1",
         "type": "tabs",
         "children": [
           {
-            "id": "68b362a4b5f3c69f",
+            "id": "3bbd0474e6ed8a36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2023/HideToSee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2023/HideToSee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/2023/HideToSee.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ea2cf7cd6076da2",
+  "active": "3bbd0474e6ed8a36",
   "lastOpenFiles": [
+    "picoCTF/2019/waves over lambda.md",
+    "picoCTF/2019/Tapping.md",
+    "picoCTF/2019/la cifra de.md",
+    "picoCTF/2019/caesar.md",
+    "picoCTF/2019/13.md",
+    "picoCTF/2019/Easy1.md",
+    "picoCTF/2019/The Numbers.md",
+    "picoCTF/2019/Client-side-again.md",
     "picoCTF/2023/hideme.md",
     "picoCTF/2023/Rules2023.md",
     "picoCTF/2023/who is it.md",
@@ -163,14 +167,6 @@
     "retos-bandit/Level 28 al 29.md",
     "picoCTF/2021/GET aHEAD.md",
     "picoCTF/2019/c0rrupt.md",
-    "picoCTF/2019/Glory of the Garden.md",
-    "picoCTF/2019/So Meta.md",
-    "picoCTF/2019/shark on wire 1.md",
-    "picoCTF/2019/extensions.md",
-    "picoCTF/2019/What Lies Within.md",
-    "picoCTF/2019/m00nwalk.md",
-    "picoCTF/2019/WhitePages.md",
-    "picoCTF/2019/like1000.md",
     "primer-parcial/2022",
     "primer-parcial/2021",
     "primer-parcial/2019",
