@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd3f49e7c088d05",
+        "id": "a116170ca11b536a",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf5317ff1ddaa76",
+            "id": "b5c04fae3b28abfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "segundo-parcial/2022/St3g0...md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-parcial/2022/St3g0...md",
+                "file": "segundo-parcial/2022/SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-parcial/2022/St3g0...md",
+                "file": "segundo-parcial/2022/SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-parcial/2022/St3g0...md"
+                "file": "segundo-parcial/2022/SQLLite.md"
               }
             }
           }
@@ -154,26 +150,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cf5317ff1ddaa76",
+  "active": "7ea2cf7cd6076da2",
   "lastOpenFiles": [
-    "segundo-parcial/2022/Redaction gone wrong.md",
-    "segundo-parcial/2022/Packets Primer.md",
-    "segundo-parcial/2022/Lookey here.md",
-    "segundo-parcial/2022/Forbidden Paths.md",
-    "segundo-parcial/2022/Enhance!.md",
-    "segundo-parcial/2021/information.md",
-    "segundo-parcial/2021/Wireshark doo dooo do doo....md",
-    "segundo-parcial/2022/St3g0...md",
-    "segundo-parcial/2022/SQLLite.md",
     "segundo-parcial/2022/SQL Direct.md",
+    "primer-parcial/2019/05 - strings it.md",
+    "primer-parcial/2019/04 - whats a net cat.md",
+    "primer-parcial/2019/03 - 2Warm.md",
+    "primer-parcial/2019/02 - Warmed Up.md",
+    "primer-parcial/2019/01 - Lets Warm Up.md",
     "segundo-parcial/2022/Secrets.md",
-    "segundo-parcial/2022/Search Source.md",
     "segundo-parcial/2022/Roboto Sans.md",
     "segundo-parcial/2022/Power Cookie.md",
+    "segundo-parcial/2022/Forbidden Paths.md",
+    "segundo-parcial/2022/Search Source.md",
     "segundo-parcial/2022/Local Authority.md",
     "segundo-parcial/2022/Inspect HTML.md",
     "segundo-parcial/2022/Includes.md",
-    "primer-parcial/2019/01 - Lets Warm Up.md",
+    "segundo-parcial/2022/St3g0...md",
+    "segundo-parcial/2022/Redaction gone wrong.md",
+    "segundo-parcial/2022/Packets Primer.md",
+    "segundo-parcial/2022/Lookey here.md",
+    "segundo-parcial/2022/Enhance!.md",
+    "segundo-parcial/2021/information.md",
+    "segundo-parcial/2021/Wireshark doo dooo do doo....md",
+    "segundo-parcial/2022/SQLLite.md",
     "segundo-parcial/2022",
     "segundo-parcial/2021",
     "segundo-parcial",
@@ -181,10 +181,6 @@
     "picoCTF/2022/basic-mod1.md",
     "picoCTF/2021/Mind your Ps and Qs.md",
     "picoCTF/2019/b00tl3gRSA2.md",
-    "picoCTF/2019/rsa-pop-quiz.md",
-    "picoCTF/2019/miniRSA.md",
-    "picoCTF/2021/Cookies.md",
-    "picoCTF/2019/13.md",
     "picoCTF/2023",
     "primer-parcial/2022",
     "primer-parcial/2021",
