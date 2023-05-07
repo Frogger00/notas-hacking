@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a116170ca11b536a",
+        "id": "400162260d9ceb28",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c04fae3b28abfc",
+            "id": "f4db16802ec7389a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-parcial/2022/SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-parcial/2022/SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "segundo-parcial/2022/SQLLite.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,37 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ea2cf7cd6076da2",
+  "active": "f4db16802ec7389a",
   "lastOpenFiles": [
+    "picoCTF/2019/WebNet0.md",
+    "picoCTF/2021/MacroHard WeakEdge.md",
+    "picoCTF/2021/tunn3l v1s10n.md",
+    "picoCTF/2021/Matryoshka doll.md",
+    "picoCTF/2019/Webnet1.md",
+    "picoCTF/2019/like1000.md",
+    "picoCTF/2019/shark on wire 2.md",
+    "picoCTF/2019/WhitePages.md",
+    "picoCTF/2019/c0rrupt.md",
+    "retos-bandit/Level 0 al 1.md",
+    "picoCTF/2019/picobrowser.md",
+    "picoCTF/2019/MacroHard WeakEdge.md",
+    "picoCTF/2019/caesar.md",
+    "picoCTF/2019/Easy1.md",
+    "picoCTF/2019/Insp3ct0r.md",
+    "picoCTF/2019/Glory of the Garden.md",
+    "picoCTF/2019/So Meta.md",
+    "picoCTF/2019/waves over lambda.md",
+    "picoCTF/2019/What Lies Within.md",
+    "picoCTF/2019/extensions.md",
+    "picoCTF/2019/b00tl3gRSA2.md",
+    "picoCTF/2019/m00nwalk.md",
+    "picoCTF/2019/Untitled 1.md",
+    "picoCTF/2019/shark on wire 1.md",
+    "picoCTF/2019/Untitled.md",
     "segundo-parcial/2022/SQL Direct.md",
-    "primer-parcial/2019/05 - strings it.md",
-    "primer-parcial/2019/04 - whats a net cat.md",
-    "primer-parcial/2019/03 - 2Warm.md",
-    "primer-parcial/2019/02 - Warmed Up.md",
-    "primer-parcial/2019/01 - Lets Warm Up.md",
-    "segundo-parcial/2022/Secrets.md",
-    "segundo-parcial/2022/Roboto Sans.md",
-    "segundo-parcial/2022/Power Cookie.md",
-    "segundo-parcial/2022/Forbidden Paths.md",
-    "segundo-parcial/2022/Search Source.md",
-    "segundo-parcial/2022/Local Authority.md",
-    "segundo-parcial/2022/Inspect HTML.md",
-    "segundo-parcial/2022/Includes.md",
-    "segundo-parcial/2022/St3g0...md",
-    "segundo-parcial/2022/Redaction gone wrong.md",
-    "segundo-parcial/2022/Packets Primer.md",
-    "segundo-parcial/2022/Lookey here.md",
-    "segundo-parcial/2022/Enhance!.md",
-    "segundo-parcial/2021/information.md",
-    "segundo-parcial/2021/Wireshark doo dooo do doo....md",
-    "segundo-parcial/2022/SQLLite.md",
     "segundo-parcial/2022",
     "segundo-parcial/2021",
     "segundo-parcial",
-    "picoCTF/2021/Pixelated.md",
-    "picoCTF/2022/basic-mod1.md",
-    "picoCTF/2021/Mind your Ps and Qs.md",
-    "picoCTF/2019/b00tl3gRSA2.md",
     "picoCTF/2023",
     "primer-parcial/2022",
     "primer-parcial/2021",
