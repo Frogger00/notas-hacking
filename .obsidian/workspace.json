@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b0eea0dfe9e2ed5",
+        "id": "ce1b52875bf7f447",
         "type": "tabs",
         "children": [
           {
-            "id": "215b9f7b87ae3b1e",
+            "id": "c7aa9b6b1aa33a6c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/2019/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/2019/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "picoCTF/2019/vault-door-4.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ea2cf7cd6076da2",
+  "active": "c7aa9b6b1aa33a6c",
   "lastOpenFiles": [
+    "picoCTF/2019/asm3.md",
+    "picoCTF/2019/like1000.md",
+    "picoCTF/2019/asm1.md",
+    "picoCTF/2019/la cifra de.md",
+    "picoCTF/2019/JaWT Scratchpad.md",
+    "picoCTF/2019/Insp3ct0r.md",
+    "picoCTF/2019/Irish-Name-Repo 1.md",
+    "picoCTF/2019/Glory of the Garden.md",
+    "picoCTF/2019/extensions.md",
+    "picoCTF/2019/Easy1.md",
+    "picoCTF/2019/dont-use-client-side.md",
+    "picoCTF/2019/Client-side-again.md",
+    "picoCTF/2019/c0rrupt.md",
+    "picoCTF/2019/13.md",
+    "picoCTF/2019/asm2.md",
+    "picoCTF/2019/vault-door-4.md",
     "picoCTF/2019/vault-door-3.md",
     "picoCTF/2019/vault-door-training.md",
     "picoCTF/2019/vault-door-1.md",
-    "picoCTF/2019/vault-door-4.md",
     "picoCTF/2019/WhitePages.md",
     "picoCTF/2019/Untitled 1.md",
-    "picoCTF/2019/Untitled.md",
     "picoCTF/2019/WebNet0.md",
     "picoCTF/2021/MacroHard WeakEdge.md",
     "picoCTF/2021/tunn3l v1s10n.md",
     "picoCTF/2021/Matryoshka doll.md",
     "picoCTF/2019/Webnet1.md",
-    "picoCTF/2019/like1000.md",
-    "picoCTF/2019/shark on wire 2.md",
-    "picoCTF/2019/c0rrupt.md",
-    "retos-bandit/Level 0 al 1.md",
-    "picoCTF/2019/picobrowser.md",
-    "picoCTF/2019/MacroHard WeakEdge.md",
-    "picoCTF/2019/caesar.md",
-    "picoCTF/2019/Easy1.md",
-    "picoCTF/2019/Insp3ct0r.md",
-    "picoCTF/2019/Glory of the Garden.md",
-    "picoCTF/2019/So Meta.md",
-    "picoCTF/2019/waves over lambda.md",
-    "picoCTF/2019/What Lies Within.md",
-    "picoCTF/2019/extensions.md",
     "segundo-parcial/2022",
     "segundo-parcial/2021",
     "segundo-parcial",
