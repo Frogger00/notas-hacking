@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "400162260d9ceb28",
+        "id": "6b0eea0dfe9e2ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "f4db16802ec7389a",
+            "id": "215b9f7b87ae3b1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5
   },
   "right": {
     "id": "5017b411373c2a83",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/2019/vault-door-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/2019/vault-door-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/2019/vault-door-4.md"
+              }
             }
           }
         ]
@@ -146,8 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4db16802ec7389a",
+  "active": "7ea2cf7cd6076da2",
   "lastOpenFiles": [
+    "picoCTF/2019/vault-door-3.md",
+    "picoCTF/2019/vault-door-training.md",
+    "picoCTF/2019/vault-door-1.md",
+    "picoCTF/2019/vault-door-4.md",
+    "picoCTF/2019/WhitePages.md",
+    "picoCTF/2019/Untitled 1.md",
+    "picoCTF/2019/Untitled.md",
     "picoCTF/2019/WebNet0.md",
     "picoCTF/2021/MacroHard WeakEdge.md",
     "picoCTF/2021/tunn3l v1s10n.md",
@@ -155,7 +166,6 @@
     "picoCTF/2019/Webnet1.md",
     "picoCTF/2019/like1000.md",
     "picoCTF/2019/shark on wire 2.md",
-    "picoCTF/2019/WhitePages.md",
     "picoCTF/2019/c0rrupt.md",
     "retos-bandit/Level 0 al 1.md",
     "picoCTF/2019/picobrowser.md",
@@ -168,12 +178,6 @@
     "picoCTF/2019/waves over lambda.md",
     "picoCTF/2019/What Lies Within.md",
     "picoCTF/2019/extensions.md",
-    "picoCTF/2019/b00tl3gRSA2.md",
-    "picoCTF/2019/m00nwalk.md",
-    "picoCTF/2019/Untitled 1.md",
-    "picoCTF/2019/shark on wire 1.md",
-    "picoCTF/2019/Untitled.md",
-    "segundo-parcial/2022/SQL Direct.md",
     "segundo-parcial/2022",
     "segundo-parcial/2021",
     "segundo-parcial",
