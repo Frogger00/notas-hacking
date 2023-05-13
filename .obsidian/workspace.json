@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce1b52875bf7f447",
+        "id": "67438b00588ba715",
         "type": "tabs",
         "children": [
           {
-            "id": "c7aa9b6b1aa33a6c",
+            "id": "81f58245e4186921",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,8 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7aa9b6b1aa33a6c",
+  "active": "81f58245e4186921",
   "lastOpenFiles": [
+    "picoCTF/2022/GDB Test Drive.md",
+    "picoCTF/2019/reverse_cipher.md",
+    "picoCTF/2019/Need For Speed.md",
+    "picoCTF/2021/Matryoshka doll.md",
+    "picoCTF/2022/basic-mod1.md",
+    "picoCTF/2022/basic-file-exploit.md",
+    "picoCTF/2023/Safe Opener 2.md",
+    "picoCTF/2021/Stonks.md",
+    "picoCTF/2022/flag leak.md",
+    "picoCTF/2022/buffer overflow 1.md",
+    "picoCTF/2022/buffer overflow 0.md",
     "picoCTF/2019/asm3.md",
     "picoCTF/2019/like1000.md",
     "picoCTF/2019/asm1.md",
@@ -163,17 +174,6 @@
     "picoCTF/2019/c0rrupt.md",
     "picoCTF/2019/13.md",
     "picoCTF/2019/asm2.md",
-    "picoCTF/2019/vault-door-4.md",
-    "picoCTF/2019/vault-door-3.md",
-    "picoCTF/2019/vault-door-training.md",
-    "picoCTF/2019/vault-door-1.md",
-    "picoCTF/2019/WhitePages.md",
-    "picoCTF/2019/Untitled 1.md",
-    "picoCTF/2019/WebNet0.md",
-    "picoCTF/2021/MacroHard WeakEdge.md",
-    "picoCTF/2021/tunn3l v1s10n.md",
-    "picoCTF/2021/Matryoshka doll.md",
-    "picoCTF/2019/Webnet1.md",
     "segundo-parcial/2022",
     "segundo-parcial/2021",
     "segundo-parcial",
